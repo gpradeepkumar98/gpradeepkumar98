@@ -32,15 +32,6 @@ My career aspirations revolve around roles in data science and analysis, with a 
 - 🐍 Python
 - 💽 SQL
 
-### GIS Software:
-- 🌍 ArcGIS
-- 🗺️ QGIS
-- 🌐 Google Earth Engine
-
-### Civil Software:
-- 🏗️ AutoCAD
-- 🏢 REVIT Architecture
-
 ### Machine Learning (ML) Algorithms:
 - Linear Regression
 - Decision Trees
@@ -60,6 +51,14 @@ My career aspirations revolve around roles in data science and analysis, with a 
 - 🐼 Pandas
 - 🔢 Numpy
 
+### GIS Software:
+- 🌍 ArcGIS
+- 🗺️ QGIS
+- 🌐 Google Earth Engine
+
+### Civil Software:
+- 🏗️ AutoCAD
+- 🏢 REVIT Architecture
 ## 📫 Let's Connect
 
 I'm always excited to connect with fellow data enthusiasts and spatial thinkers. Please feel free to reach out to me through:
